@@ -24,4 +24,4 @@
 
 ---
 
-_""The codes will constantly develop, as long as we constantly learn."."_ ✨
+_""The codes will constantly develop, as long as we constantly learn.""_ ✨
