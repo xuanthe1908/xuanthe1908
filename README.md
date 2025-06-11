@@ -24,4 +24,4 @@
 
 ---
 
-_"Keep building. Keep learning."_ ✨
+_""The codes will constantly develop, as long as we constantly learn."."_ ✨
