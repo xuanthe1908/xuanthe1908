@@ -4,7 +4,7 @@
 
 ---
 
-🌱 I’m a **Full Stack Developer** with **1 year of experience** in modern JavaScript frameworks and blockchain-based web applications. Currently, I’m working at **[Caliber Venture Builder](https://caliber.build/)** where I help bring Web3 products to life through end-to-end development.
+🌱 I’m a **Full Stack Developer** with **1 year of experience** in modern JavaScript frameworks and blockchain-based web applications. 
 
 🛠️ My Tech Stack:
 - **Frontend**: React.js, Next.js, Vue.js, TailwindCSS
