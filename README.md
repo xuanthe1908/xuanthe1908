@@ -1,10 +1,10 @@
 # 👋 Hi, I'm @xuanthe1908
 
-🚀 Full Stack Developer | Web3 Enthusiast | Builder at Caliber Venture Builder
+🚀 Full Stack Developer | Web3 Enthusiast
 
 ---
 
-🌱 I’m a **Full Stack Developer** with **1 year of experience** in modern JavaScript frameworks and blockchain-based web applications. 
+🌱 I’m a **Full Stack Developer** with **1+ year of experience** in modern JavaScript frameworks and blockchain-based web applications. 
 
 🛠️ My Tech Stack:
 - **Frontend**: React.js, Next.js, Vue.js, TailwindCSS
