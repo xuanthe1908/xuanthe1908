@@ -8,7 +8,7 @@
 
 🛠️ My Tech Stack:
 - **Frontend**: React.js, Next.js, Vue.js, TailwindCSS
-- **Backend**: NestJS, Node.js, Express
+- **Backend**: NestJS, Node.js, Express, Golang
 - **Web3**: Smart Contracts (EVM), WalletConnect, DeFi, NFTs
 - **Others**: TypeScript, RESTful APIs, GraphQL, PostgreSQL, Firebase, Docker
 
